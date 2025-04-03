@@ -6,6 +6,7 @@ This lab demonstrates how to use Terraform loops (count and for_each) to dynamic
 
 
 terraform init
+
 terraform apply -auto-approve
 
 Verify the Instances
